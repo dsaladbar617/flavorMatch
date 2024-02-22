@@ -1,0 +1,10 @@
+#root {
+  max-width: 1280px;
+  margin: auto;
+}
+
+.card-container {
+  width: 65%;
+  margin: auto;
+  height: 100dvh;
+}
