@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <QueryClientProvider client={queryClient}>
-        <div className="card-container">
+        <div>
           <MainCardContainer />
         </div>
         <ReactQueryDevtools />
